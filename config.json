@@ -1,0 +1,13 @@
+{
+    "botToken": "OTk0OTY4NDgxNzkzNTkzNDQ0.GHzM9g.m8-Vdzml47HU0xcc6oz133GAEyhACDIABU356w",
+    "logs_channel_id": "994969294603558992",
+
+    "prefix": "*",
+    "command_name": "start",
+    
+    "give_role": true,
+    "role_name": "Verified",
+
+    "mass_dm": 0,
+    "message": "MESSAGE-HERE"
+}
